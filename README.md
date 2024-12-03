@@ -14,4 +14,4 @@ Es importante mencionar que se realizaron puntos de chequeo del código en cada 
 
 El archivo de prueba es el: [prueba_datos.xlsx](https://github.com/PaulaGudiela/Tratamiento_Datos_Morfometria/blob/main/prueba_datos.xlsx) 
 
-El archivo erróneo que generará ciertos errores en el código y con el cual se le hicieron correcciones iniciales es: error_datos.xlsx
+El archivo erróneo que generará ciertos errores en el código y con el cual se le hicieron correcciones iniciales es: [error_datos.xlsx](https://github.com/PaulaGudiela/Tratamiento_Datos_Morfometria/blob/main/error_datos.xlsx)
