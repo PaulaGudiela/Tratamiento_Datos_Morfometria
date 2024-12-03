@@ -12,6 +12,6 @@ Mediante la manipulación de los datos de la siguiente forma:
 Es importante mencionar que se realizaron puntos de chequeo del código en cada manipulación de datos, por lo tanto, el código generará 8 documentos excel. Los primeros 7 de chequeo de cada punto individualmente y el último que será nombrado con el nombre del archivo orginal + datos_tratados 
 
 
-El archivo de prueba es el: prueba_datos.xlsx 
+El archivo de prueba es el: [prueba_datos.xlsx](https://github.com/PaulaGudiela/Tratamiento_Datos_Morfometria/blob/main/prueba_datos.xlsx) 
 
 El archivo erróneo que generará ciertos errores en el código y con el cual se le hicieron correcciones iniciales es: error_datos.xlsx
